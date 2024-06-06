@@ -1,5 +1,7 @@
 # namespace 使用 demo
 
+[参考博客](https://www.cnblogs.com/zjuhaohaoxuexi/p/16470576.html)
+
 ---
 
 ## C++ 引入命名空间是为了避免合作开发项目时产生命名冲突
